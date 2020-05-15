@@ -1,0 +1,20 @@
+.RegisterRedirection {
+    display: flex;
+    flex-direction: row;
+    margin-top: 15%;
+}
+
+.Text {
+    display: flex;
+}
+
+.RegisterLink {
+    display: flex;
+    color: blue;
+    cursor: pointer;
+    margin-left: 5px;
+}
+
+.RegisterLink:active {
+    color: gray;
+}

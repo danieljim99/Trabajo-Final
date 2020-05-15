@@ -1,0 +1,11 @@
+.NotesSearchBar {
+    display: flex;
+    margin-right: 15px;
+}
+
+.NotesSearchInput {
+    display: flex;
+    text-align: center;
+    width: 250px;
+    height: 25px;
+}

@@ -1,0 +1,28 @@
+.AddNoteButton {
+    display: flex;
+    border: 1px solid black;
+    border-radius: 10%;
+    cursor: pointer;
+}
+
+.AddNoteButton:hover {
+    border: 2px solid rgb(34, 113, 179);
+}
+
+.Loading {
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+    color: gray;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.Error {
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+    color: gray;
+    font-weight: bold;
+    font-size: x-large;
+}

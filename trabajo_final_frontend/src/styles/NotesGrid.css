@@ -1,0 +1,36 @@
+.NotesGrid {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 5%;
+    justify-content: space-evenly;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.NoNotes {
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+    color: gray;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.Loading {
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+    color: gray;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.Error {
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+    color: gray;
+    font-weight: bold;
+    font-size: x-large;
+}

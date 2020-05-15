@@ -1,0 +1,20 @@
+.LoginRedirection {
+    display: flex;
+    flex-direction: row;
+    margin-top: 15%;
+}
+
+.Text {
+    display: flex;
+}
+
+.LoginLink {
+    display: flex;
+    color: blue;
+    cursor: pointer;
+    margin-left: 5px;
+}
+
+.LoginLink:active {
+    color: gray;
+}
